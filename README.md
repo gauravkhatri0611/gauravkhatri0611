@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Gaurav, a budding developer. Learning Frontend, Backend and Full stack<br>Making projects from scratch - from Figma design to deploying it.
+Hi, my name is Gaurav, a budding developer. Learning Frontend, Backend and Full stack Developer<br>Learning and growing.
 
 
 ## 🌐 Socials:
