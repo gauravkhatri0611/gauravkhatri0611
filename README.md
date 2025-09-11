@@ -70,11 +70,7 @@ Hi, my name is Gaurav, a budding developer. Learning Frontend, Backend and Full 
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) 
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) 
 
-# 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=gauravkhatri0611&theme=dark&hide_border=true)<br/>
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravkhatri0611/gauravkhatri0611/output/github-snake-dark.svg" />
