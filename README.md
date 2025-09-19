@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Gaurav, a budding developer. Learning Frontend, Backend and Full stack Developer<br>Learning and growing.<br> Message me on linkedIn if you know how to learn DSA in js.
+Hi, my name is Gaurav, a budding developer. Learning Frontend, Backend and Full stack Developer<br>Learning and growing.
 
 
 ## 🌐 Socials:
