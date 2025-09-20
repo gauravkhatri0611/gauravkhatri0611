@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Gaurav, a budding developer. Learning Frontend, Backend and Full stack Developer<br>Learning and growing.
+Hi, my name is Gaurav, a budding developer. Learning Frontend, Backend and Full stack Developer<br>Learning and growing. Currently Working at Conestoga College Doon as a work study student.
 
 
 ## 🌐 Socials:
