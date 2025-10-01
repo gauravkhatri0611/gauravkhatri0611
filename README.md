@@ -1,6 +1,12 @@
 # 💫 About Me:
-Hi, my name is Gaurav, a budding developer. Learning Frontend, Backend and Full stack Developer<br>Learning and growing. Currently Working at Conestoga College Doon as a work study student.
-
+Hi, I’m Gaurav — a budding developer passionate about frontend, backend, and full-stack development. Currently, I’m working as a Work-Study Student at Conestoga College (Doon Campus) while continuing to strengthen my skills and explore new technologies. 
+<br>
+My life switched when I moved to Canada a few months ago. Since then, I’ve been focused on building discipline, consistency, and a growth mindset as I pursue my career in tech. While I still face challenges along the way, I see them as opportunities to learn, improve, and grow stronger every day.
+<br>
+I’m eager to keep learning, collaborate on impactful projects, and connect with like-minded professionals. Whether it’s for job referrals, mentorship, or knowledge-sharing, I’d love to connect and grow together.
+<br>
+📩 Feel free to reach out or connect with me here on LinkedIn!
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-khatri-61396616b/) 
