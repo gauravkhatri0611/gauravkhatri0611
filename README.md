@@ -5,7 +5,7 @@ My life switched when I moved to Canada a few months ago. Since then, I’ve bee
 <br>
 I’m eager to keep learning, collaborate on impactful projects, and connect with like-minded professionals. Whether it’s for job referrals, mentorship, or knowledge-sharing, I’d love to connect and grow together.
 <br>
-📩 Feel free to reach out or connect with me here on LinkedIn!
+📩 Feel free to reach out or connect with me here on LinkedIn below!
 <br>
 
 ## 🌐 Socials:
