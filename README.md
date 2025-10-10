@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Gaurav — a budding developer passionate about frontend, backend, and full-stack development. Currently, I’m working as a Work-Study Student at Conestoga College (Doon Campus) while continuing to strengthen my skills and explore new technologies. 
+Hi, I’m Gaurav — a budding developer passionate about frontend, backend, and full-stack development. Currently, I’m working as a Work-Study Student at <b>Conestoga College (Doon Campus)</b> while continuing to strengthen my skills and explore new technologies. 
 <br>
 My life switched when I moved to Canada a few months ago. Since then, I’ve been focused on building discipline, consistency, and a growth mindset as I pursue my career in tech. While I still face challenges along the way, I see them as opportunities to learn, improve, and grow stronger every day.
 <br>
