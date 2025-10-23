@@ -7,6 +7,7 @@ I’m eager to keep learning, collaborate on impactful projects, and connect wit
 <br>
 📩 Feel free to reach out or connect with me here on LinkedIn below!
 <br>
+Will Create Excel sheet for jobs application and projects and links which i am doing, with status bar. Maybe create a website that tracks my learning and what i need to do.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-khatri-61396616b/) 
