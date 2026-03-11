@@ -1,5 +1,3 @@
-OFF for couple of weeks, will start being consistent after 15 nov 25.
-
 # 💫 About Me:
 Hi, I’m Gaurav — a budding developer passionate about frontend, backend, and full-stack development. Currently, I’m working as a Work-Study Student at <b>Conestoga College (Doon Campus)</b> while continuing to strengthen my skills and explore new technologies. 
 <br>
